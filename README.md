@@ -12,3 +12,16 @@ Y EFICIENTE CON UN MODELO ENANO
 ![image](https://github.com/user-attachments/assets/ac876264-3805-4347-a6f2-699740f2fe22)
 ![image](https://github.com/user-attachments/assets/5b141a4b-f8a1-4474-a457-ca7be954a738)
 ![image](https://github.com/user-attachments/assets/2b7ef32d-faa3-43bd-b85a-7ee13ab14dde)
+
+
+
+SE USO:
+beautifulsoup4==4.13.4
+datasets==3.6.0
+peft==0.15.2
+Requests==2.32.3
+tiktoken==0.9.0
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.51.3
+trl==0.17.0
